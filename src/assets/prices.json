@@ -1,0 +1,14 @@
+[
+    {
+        "type": "morning",
+        "price": 100
+    },
+    {
+        "type": "afternoon",
+        "price": 200
+    },
+    {
+        "type": "overnight",
+        "price": 500
+    }
+]
